@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyContourLevel</string>
+    <string name="no_senscor_comm">Brak sensora w urządzeniu!</string>
+    <string name="x_present">X: </string>
+    <string name="y_present">Y: </string>
+    <string name="z_present">Z: </string>
+    <string name="decimal_pattern">0.00</string>
+</resources>
